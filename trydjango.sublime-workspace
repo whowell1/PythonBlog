@@ -1,0 +1,284 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"auto_now_add"
+			],
+			[
+				"time",
+				"timeNow"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"data",
+				"datestamp"
+			],
+			[
+				"my",
+				"mydata"
+			],
+			[
+				"u",
+				"urlConnect"
+			],
+			[
+				"req",
+				"requests"
+			],
+			[
+				"word",
+				"wordFrom"
+			],
+			[
+				"Req",
+				"requests"
+			],
+			[
+				"url",
+				"urlopen"
+			],
+			[
+				"d",
+				"dictionary"
+			],
+			[
+				"M",
+				"myToken"
+			],
+			[
+				"load",
+				"loadJson"
+			],
+			[
+				"read",
+				"readDictionary"
+			],
+			[
+				"m",
+				"myToken"
+			],
+			[
+				"rea",
+				"readDictionary"
+			],
+			[
+				"co",
+				"containedIndic"
+			],
+			[
+				"rev",
+				"reverseString"
+			],
+			[
+				"man",
+				"magnitudeOfC"
+			],
+			[
+				"temp",
+				"tempDistance3"
+			],
+			[
+				"tem",
+				"tempDistance2"
+			],
+			[
+				"tempDi",
+				"tempDistance"
+			],
+			[
+				"problemTwoB",
+				"problemTwoBTempDistance"
+			],
+			[
+				"problemTwoA",
+				"problemTwoADistanceOfX"
+			],
+			[
+				"dista",
+				"distanceForProblem2A"
+			],
+			[
+				"dis",
+				"distanceofY"
+			],
+			[
+				"value",
+				"valueOfYOne"
+			],
+			[
+				"valueY",
+				"valueofYThree"
+			],
+			[
+				"va",
+				"valueOfXTwo"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/wren/Desktop/PythonBlog/src/posts/__init__.py",
+		"/Users/wren/Desktop/PythonBlog/src/posts/admin.py",
+		"/Users/wren/Desktop/PythonBlog/src/trydjango/settings.py",
+		"/Users/wren/Desktop/PythonBlog/src/posts/models.py",
+		"/Users/wren/Desktop/Coding Challenges/dictionary2.py",
+		"/Users/wren/Desktop/Coding Challenges/timestamp.py",
+		"/Users/wren/Desktop/Coding Challenges/dictionary.py",
+		"/Users/wren/Desktop/Coding Challenges/response3.py",
+		"/Users/wren/Desktop/Coding Challenges/response.py",
+		"/Users/wren/Desktop/Coding Challenges/Reverse2.py",
+		"/Users/wren/Desktop/Coding Challenges/Reverse.py",
+		"/Users/wren/Desktop/Coding Challenges/response2.py",
+		"/Users/wren/Desktop/HashMapCustomApp.java",
+		"/Users/wren/Desktop/customhash.java",
+		"/Users/wren/Desktop/test.py",
+		"/Users/wren/Desktop/Wrens_Folder/College/GPC/Sixth Semester/Math/Week 2/howell_wren_week02.py",
+		"/Users/wren/Desktop/Wrens_Folder/College/GPC/Sixth Semester/Math/Week 1/howell_wren_week_01.py",
+		"/Users/wren/Desktop/Wrens_Folder/College/GPC/Sixth Semester/Math/Week4/howell_wren_week4.py",
+		"/Users/wren/Desktop/Wrens_Folder/College/GPC/Sixth Semester/Math/Week3/howell_wren_week03.py",
+		"/Users/wren/Desktop/Wrens_Folder/College/GPC/Sixth Semester/Math/Week 2/howell_wren_week03_practice_vectors.py",
+		"/Users/wren/Desktop/Test.py",
+		"/Users/wren/Desktop/Wrens_Folder/College/GPC/Sixth Semester/Math/Week 1/howell_wren_week_01_distance.nb",
+		"/Users/wren/Desktop/Wrens_Folder/College/GPC/Sixth Semester/Math/howell_wren_week_01.py",
+		"/Users/wren/Desktop/Wrens_Folder/College/GPC/Sixth Semester/Math/Week 2/week 2 Vectors.py",
+		"/Users/wren/Desktop/Wrens_Folder/College/GPC/Sixth Semester/Math/Question6.py",
+		"/Users/wren/Desktop/RealPython/flask-hello-world/app.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\n",
+			"loadCount",
+			"cos",
+			"arc",
+			"cos",
+			"arc"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
